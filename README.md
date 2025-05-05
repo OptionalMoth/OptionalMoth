@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Solomon Mtetwa]
+Hi there! 👋 I'm Solomon Mtetwa
 
 🚀 About Me
 
