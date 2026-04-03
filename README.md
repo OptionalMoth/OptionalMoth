@@ -6,7 +6,7 @@ I'm an Information Technology (IT) student passionate about coding, problem-solv
 
 💻 Technologies & Tools
 
-Programming Languages: Python, Java, JavaScript, C++
+Programming Languages: Python, Java, JavaScript
 
 Web Development: HTML, CSS, React, Node.js
 
